@@ -1,0 +1,51 @@
+.cont1{
+    box-shadow: 0px 0px 5px 2px rgba(221, 221, 221, 0.657);
+}
+.lab1{
+    border: 1px solid gray;
+}
+.lab1:hover{
+    background-color: #e03a3c;
+    color: white;
+    border: 1px solid #e03a3c;
+}
+.hr1{
+    background-color: #e03a3c;
+    height: 3px;
+}
+.inp1{
+    display: none;
+}
+@media screen and (min-width:991px) and (max-width:1075px) {
+    .lg-para{
+        margin-left: 10px;
+    }
+}
+.con12{
+    /* clip-path: polygon(0 4%, 100% 0%, 100% 95%, 0% 100%); */
+    background-color: rgba(0, 0, 0, 0.925);
+}
+.icnn{
+    font-size: 10px;
+}
+.pp{
+    color:gray;
+}
+.pp:hover{
+    color: white;
+    cursor: pointer;
+}
+.con13{
+    background-color: black;
+}
+.icc{
+    color: white;
+    /* background-color: blueviolet; */
+}
+.parent>i{
+    background-color: rgb(71, 69, 69);
+    transition-duration: .5s;
+}
+.parent>i:hover{
+background-color: rgb(252, 7, 7);
+}

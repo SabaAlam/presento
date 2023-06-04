@@ -1,0 +1,443 @@
+.cont{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("./presento/hero-bg.jpg");
+    background-size: 100% 100%;
+}
+.btn1{
+    background-color: #e03a3c ;
+}
+.btn1:hover{
+    outline:2px solid white;
+    background-color: transparent;
+}
+.cont1{
+    background-color: black;
+    clip-path: polygon(0 4%, 100% 0%, 100% 95%, 0% 100%);
+
+}
+.btn4{
+    outline: 2px solid #e03a3c;
+    color: white;
+    border-radius: 25px;
+}
+.btn4:hover{
+    background-color: #e03a3c;
+}
+.icon15{
+    font-size: 40px;
+    color: #e03a3c;
+    /* background-color: blue; */
+}
+.ccb{
+    box-shadow: 0px 0px 5px 2px rgba(212, 212, 212, 0.705);
+
+}
+.iconss>i{
+    color: rgb(179, 174, 174);
+}
+
+.icon1{
+    border-radius: 360px;
+    font-size: 25px;
+    color: #e03a3c;
+    background-color: white;
+    position: absolute;
+    box-shadow: 0px 0px 5px 2px rgba(212, 212, 212, 0.705);
+}
+
+.image1{
+    filter: grayscale(100%);
+    transition-duration: 1s;
+    
+}
+.image1:hover{
+    filter:none;
+    transform: scale(1.2);
+}
+.lf{
+    background-color: red;
+    position: absolute;
+    border: 5px solid rgb(90, 24, 245);
+}
+input:checked+ .lf{
+    left: 0%;
+}
+
+.img>img{
+    height: 100%;
+    width: 100%;
+}
+.icon3{
+    font-size:50px;
+}
+.cont2{
+    background-color: #d4292b;
+    color: white;
+}
+.con2:hover{
+    color:#df6264;
+    cursor: pointer;
+}
+.con2{
+    background-color: white;
+    color: rgb(68, 68, 68);
+}
+.lst{
+    list-style-type: none;
+}
+.icon4{
+    color:#e03a3c;
+}
+.img4{
+    height: 99%;
+}
+.cont3{
+    background-image: url("./presento/tabs-1.jpg");
+    background-size: 100% 100%;
+}
+.hr1{
+    background-color: #e03a3c;
+    height: 3px;
+}
+.cont4{
+    background-color: black;
+    clip-path: polygon(0 4%, 100% 0%, 100% 95%, 0% 100%);
+
+}
+.icon5{
+    font-size: 42px;
+    color: #e03a3c;
+}
+.pra1{
+    font-size: 14px;
+}
+.cont5{
+    background-color: rgba(43, 43, 43, 0.74);
+    border-radius: 4px;
+    
+}
+.lab1{
+    /* background-color: #e03a3c; */
+    border-radius: 3px;
+    color: black;
+    /* font-weight: bold; */
+    
+}
+.lab1:hover{
+    background-color: #e03a3c;
+    color: white;
+}
+.inp1{
+    display: none;
+}
+.parent_div
+{
+ border: 3px solid  red;
+ height: 100%;
+ width: 100%;
+}
+.over{
+    overflow: hidden;
+    height: 300px;
+    /* border: 3px solid red; */
+}
+ 
+
+.img1 {
+ 
+    height: 100%;
+    width: 100%;
+    /* background-image:url('./presento/portfolio-1.jpg') ; */
+    position: relative;
+    /* border: 3px solid purple; */
+}
+
+
+
+.img1 img{
+ 
+    height: 100%;
+    width: 100%;
+    /* background-image:url('./presento/portfolio-1.jpg') ; */
+    background-size:100% 100%;
+    
+    position: relative;
+}
+.img1:hover
+{
+    transform: scale(1.3);
+    
+}
+
+#box
+{
+height:100%;
+width:100%;
+background-color: black;
+position: absolute;
+opacity: 0;
+}
+.img1:hover #box
+{
+    opacity: 0.6;
+}
+.icon6{
+    font-size: 22px;
+    color: rgb(185, 183, 183);
+}
+
+
+
+
+/* ------------- */
+/* joshua */
+
+.portfolio-wrap
+{
+    /* height: 100%; */
+    /* width:100%; */
+    /* border: 3px solid red; */
+    /* background-color: red; */
+    /* position: absolute; */
+    /* background: rgba(17, 17, 17, 0.6); */
+
+    z-index: 100;
+    /* position: absolute;     */
+}
+.portfolio-wrap img 
+{
+    /* border: 3px solid  blue; */
+    z-index: -1;
+}
+.image11{
+    border-radius:5px;
+}
+.pragrph1{
+    font-size:17px;
+}
+.iconic7{
+    font-size: 24px;
+    color: #e03a3d71;
+}
+.cont6{
+    border-radius: 7px;
+    box-shadow: 0px 0px 8px 2px rgba(196, 196, 196, 0.651);
+}
+.pr11{
+    font-size: 14px;
+}
+.cont7{
+    background-color: black;
+    clip-path: polygon(0 6%, 100% 0%, 100% 94%, 0% 100%);
+
+}
+.btn2{
+    outline: 2px solid gray;
+}
+.cont8{
+    border-radius: 7px;
+    background-color: rgb(29, 28, 28);
+}
+.cont9{
+    border-radius: 7px;
+    background-color: #e03a3c;
+}
+.cont10{
+    background-color: black;
+    clip-path: polygon(0 6%, 100% 0%, 100% 94%, 0% 100%);
+
+}
+
+.mm1{
+    width: 110%;
+    height: 180%;
+}
+.cont11{
+    border-radius: 7px;
+    overflow: hidden;
+}
+.rr11{
+    position: absolute;
+    top:50%;
+    transition-duration: 1s;
+    transform: translateY(20px);
+}
+.cont11:hover .rr11{
+    transform: translateY(30px);
+}
+.icn1{
+    font-size: 20px;
+    color :white;
+    background-color: #e03a3c;
+    border-radius: 360px;
+    visibility: hidden;
+    /* position: absolute; */
+    
+}
+.cont11:hover .icn1{
+    visibility: visible;
+}
+.icn12{
+    font-size: 25px;
+    border:2px dotted #e03a3c;
+    border-radius: 360px;
+    color: #e03a3c;
+
+}
+.con{
+    border-radius: 4px;
+    box-shadow: 0px 0px 4px 2px rgba(202, 202, 202, 0.733);
+}
+.btn5{
+    background-color: #e03a3c;
+    color: white;
+}
+.con12{
+    /* clip-path: polygon(0 4%, 100% 0%, 100% 95%, 0% 100%); */
+    background-color: rgba(0, 0, 0, 0.925);
+}
+.icnn{
+    font-size: 10px;
+}
+.pp{
+    color:gray;
+}
+.pp:hover{
+    color: white;
+    cursor: pointer;
+}
+.con13{
+    background-color: black;
+}
+.icc{
+    color: white;
+    /* background-color: blueviolet; */
+}
+.pp2{
+    font-size: 18px;
+}
+.pp2:hover{
+    cursor: pointer;
+    color: #e03a3c;
+}
+.parent>i{
+            background-color: rgb(71, 69, 69);
+            transition-duration: .5s;
+}
+.parent>i:hover{
+    background-color: rgb(252, 7, 7);
+}
+.portfolio .portfolio-item {
+    margin-bottom: 30px;
+  }
+  .portfolio #portfolio-flters {
+    padding: 0;
+    margin: 0 auto 20px auto;
+    list-style: none;
+    text-align: center;
+  }
+  .portfolio #portfolio-flters li {
+    cursor: pointer;
+    display: inline-block;
+    padding: 8px 15px 10px 15px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #444444;
+    margin-bottom: 5px;
+    transition: all 0.3s ease-in-out;
+    border-radius: 3px;
+  }
+  .portfolio #portfolio-flters li:hover,
+  .portfolio #portfolio-flters li.filter-active {
+    color: #fff;
+    background: #e03a3c;
+  }
+  .portfolio #portfolio-flters li:last-child {
+    margin-right: 0;
+  }
+  .portfolio .portfolio-wrap {
+    transition: 0.3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    background: rgba(17, 17, 17, 0.6);
+  }
+  .portfolio .portfolio-wrap::before {
+    content: "";
+    background: rgba(17, 17, 17, 0.6);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    transition: all ease-in-out 0.3s;
+    z-index: 2;
+    opacity: 0;
+  }
+  .portfolio .portfolio-wrap img {
+    transition: all ease-in-out 0.3s;
+  }
+  .portfolio .portfolio-wrap .portfolio-info {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3;
+    transition: all ease-in-out 0.3s;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 20px;
+  }
+  .portfolio .portfolio-wrap .portfolio-info h4 {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 600;
+  }
+  .portfolio .portfolio-wrap .portfolio-info p {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0;
+    font-style: italic;
+  }
+  .portfolio .portfolio-wrap .portfolio-links {
+    text-align: center;
+    z-index: 4;
+  }
+  .portfolio .portfolio-wrap .portfolio-links a {
+    color: rgba(255, 255, 255, 0.4);
+    margin: 0 5px 0 0;
+    font-size: 28px;
+    display: inline-block;
+    transition: 0.3s;
+  }
+  .portfolio .portfolio-wrap .portfolio-links a:hover {
+    color: #fff;
+  }
+  .portfolio .portfolio-wrap:hover::before {
+    opacity: 1;
+  }
+  .portfolio .portfolio-wrap:hover img {
+    transform: scale(1.2);
+  }
+  .portfolio .portfolio-wrap:hover .portfolio-info {
+    opacity: 1;
+  }
+@media screen and (max-width:425px) {
+    .sm-text-center{
+        text-align: center;
+    }
+    .sm-text-center>h1{
+        font-size: 30px;
+    }
+    /* .mm3{
+        display: none;
+    }
+    */
+}
